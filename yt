@@ -1,0 +1,29 @@
+[33mcommit 21b1ce7040b0ca0ed467527fbd80ddfe6dc7e33c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: andrekrp <andrekrp@gmail.com>
+Date:   Sat Jul 25 18:06:21 2020 -0300
+
+    Começando a colocar Peças no Tabuleiro
+
+[33mcommit 2ea0c7b22a4a60fdeb1cb548f5506d15040255c4[m
+Author: andrekrp <andrekrp@gmail.com>
+Date:   Sat Jul 25 17:33:57 2020 -0300
+
+    Começando um metodo que imprime o Tabuleiro
+
+[33mcommit de65e7d2b6f272bef242dde6f5259fdac1805305[m
+Author: andrekrp <andrekrp@gmail.com>
+Date:   Sat Jul 25 17:03:14 2020 -0300
+
+    Começando a Implementar o Tabuleiro
+
+[33mcommit 122a00c64a17ff3ff5fd1b29e2f32c988e533172[m
+Author: andrekrp <andrekrp@gmail.com>
+Date:   Sat Jul 25 16:31:18 2020 -0300
+
+    Criando a classe pocição
+
+[33mcommit 5b06d385288eddb6d2c722ed9a69a72a01fac3f4[m
+Author: andrekrp <andrekrp@gmail.com>
+Date:   Sat Jul 25 16:14:00 2020 -0300
+
+    Projeto Criado
